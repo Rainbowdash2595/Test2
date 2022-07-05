@@ -871,3 +871,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.05-22.11.38:455][ 28]SourceControl: Commited Saved/Logs/MyProject.log: needs merge.
 [2022.07.05-22.11.38:521][ 29]LogSourceControl: Warning: UpdateHistory Failed.
 [2022.07.05-22.11.41:187][285]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
+[2022.07.05-22.12.40:193][ 81]LogSlate: Window 'View Changelists' being destroyed
+[2022.07.05-22.12.40:197][ 81]LogSlate: Window 'View Changelists' being destroyed
