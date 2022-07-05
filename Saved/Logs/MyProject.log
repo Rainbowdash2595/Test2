@@ -800,3 +800,74 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.05-22.04.29:603][892]LogSlate: Window 'View Changelists' being destroyed
 [2022.07.05-22.04.30:929][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
 [2022.07.05-22.04.32:712][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.07.05-22.07.41:313][864]LogSlate: Window 'Source Control Login' being destroyed
+[2022.07.05-22.11.01:901][586]Cmd: DELETE
+[2022.07.05-22.11.01:901][586]Cmd: ACTOR DELETE
+[2022.07.05-22.11.02:459][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.05-22.11.02:531][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.07.05-22.11.02:532][586]LogEditorActor: Deleted 1 Actors (0.177 secs)
+[2022.07.05-22.11.03:423][675]Cmd: DELETE
+[2022.07.05-22.11.03:423][675]Cmd: ACTOR DELETE
+[2022.07.05-22.11.03:425][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.05-22.11.03:431][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.07.05-22.11.03:432][675]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.07.05-22.11.04:243][765]Cmd: DELETE
+[2022.07.05-22.11.04:243][765]Cmd: ACTOR DELETE
+[2022.07.05-22.11.04:245][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.05-22.11.04:252][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.07.05-22.11.04:253][765]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.07.05-22.11.04:931][839]Cmd: DELETE
+[2022.07.05-22.11.04:931][839]Cmd: ACTOR DELETE
+[2022.07.05-22.11.04:932][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.05-22.11.04:939][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.07.05-22.11.04:940][839]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.07.05-22.11.09:287][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.05-22.11.09:295][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.05-22.11.09:302][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.07.05-22.11.09:704][270]SourceControl: Error: Updated 0 paths from the index
+[2022.07.05-22.11.10:006][270]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset'
+[2022.07.05-22.11.10:006][270]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2022.07.05-22.11.10:006][270]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset'
+[2022.07.05-22.11.10:006][270]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset'
+[2022.07.05-22.11.17:042][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Bridge/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.17:043][ 28]SourceControl: fatal: F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'F:/Programm/UnrealEngine4/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'F:/UE5Project/MyProject'
+[2022.07.05-22.11.36:678][ 28]LogSlate: Window 'Submit Files' being destroyed
+[2022.07.05-22.11.37:970][ 28]LogSourceControl: commit successful: Saved/Logs/MyProject.log: needs merge
+[2022.07.05-22.11.38:432][ 28]SourceControl: Saved/Logs/MyProject.log: needs merge
+[2022.07.05-22.11.38:432][ 28]SourceControl: [main fe58c09] -Delete Some props
+[2022.07.05-22.11.38:432][ 28]SourceControl:  5 files changed, 24 deletions(-)
+[2022.07.05-22.11.38:432][ 28]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset
+[2022.07.05-22.11.38:432][ 28]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset
+[2022.07.05-22.11.38:432][ 28]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset
+[2022.07.05-22.11.38:432][ 28]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset
+[2022.07.05-22.11.38:432][ 28]SourceControl:  delete mode 100644 MyProject.uproject
+[2022.07.05-22.11.38:455][ 28]SourceControl: Commited Saved/Logs/MyProject.log: needs merge.
+[2022.07.05-22.11.38:521][ 29]LogSourceControl: Warning: UpdateHistory Failed.
+[2022.07.05-22.11.41:187][285]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
